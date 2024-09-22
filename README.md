@@ -42,7 +42,6 @@
 
 ###
 
-<img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="file:///C:/Users/Monarca/Downloads/github-user-contribution%20(1).svg" alt="Snake animation" />
 
 ###
