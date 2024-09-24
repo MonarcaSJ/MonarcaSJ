@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Oi Meu nome é Marcus Sou Um programador junior</h2>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MonarcaSJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonarcaSJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQzNGhlN2ltbmZqOThnZTNmc290dXpqZHAzZWM5cmZoMjhmYnBjbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ySvhFxq6Z4LrbqaikJ/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdkbnNzbDFzcng4bWgwczd0MGc3dG45bTR5Z2J4NW1kZjV1MzBqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif"  />
 
 ###
 
@@ -35,12 +35,21 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="discord.com/channels/@Vini_esa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-![snake animation](https://github.com/<MonarcaSJ>/<MonarcaSJ>/blob/output/github-contribution-grid-snake2.svg)
+<img align="left" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/d15528205636373.66be45be5dc91.png"  />
+
+###
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/MonarcaSJ/count.svg?"  />
+</div>
+
 ###
